@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AddStudent",
+            "request": "launch",
+            "mainClass": "student_management_system.AddStudent",
+            "projectName": "student_management_system_95a2ab65"
+        },
+        {
+            "type": "java",
+            "name": "RoundedButton",
+            "request": "launch",
+            "mainClass": "student_management_system.RoundedButton",
+            "projectName": "student_management_system_95a2ab65"
+        },
+        {
+            "type": "java",
+            "name": "Home",
+            "request": "launch",
+            "mainClass": "student_management_system.Home",
+            "projectName": "student_management_system_95a2ab65"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "student_management_system.Login",
+            "projectName": "student_management_system_95a2ab65"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "student_management_system.Login",
+            "projectName": "student_management_system_68d0d13e"
+        },
+        {
+            "type": "java",
+            "name": "Run Login",
+            "request": "launch",
+            "mainClass": "student_management_system.Login",
+            "projectName": "student_management_system",
+            "vmArgs": "-cp bin;lib/mysql-connector-j-9.2.0.jar"
+        }
+    ]
+  }
+  
+
+  
